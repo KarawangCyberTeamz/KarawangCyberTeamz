@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://github.com/KarawangCyberTeamz/KarawangCyberTeamz/raw/main/IMG_-bcv9dn.jpg" height="290px" align="right" />
+<img  src="https://github.com/KarawangCyberTeamz/KarawangCyberTeamz/raw/main/IMG_-bcv9dn.jpg" height="200px" align="right" />
 
 
 ## 🛠️ Technologies and Tools I use:
