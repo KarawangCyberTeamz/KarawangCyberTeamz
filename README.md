@@ -2,23 +2,8 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://github.com/KarawangCyberTeamz/KarawangCyberTeamz/raw/main/IMG_-bcv9dn.jpg" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://santosocapital.com/)**
-
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- ⚡ I waste most of my time for work in front of computer
-
-- 👨‍💻 I'm the founder of **[XploitSec](https://xploitsec.com/)**, **[LinuXploit](https://linuxploit.com/)**, **[xLabsCloud](https://xlabscloud.com/)**, And **[xReverseLabs](https://xreverselabs.my.id/)**
-
-- 😎 I like the genre of `pop punk` music, as well as `rock and indie`
 
 ## 🛠️ Technologies and Tools I use:
 
